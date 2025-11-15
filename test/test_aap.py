@@ -1,4 +1,4 @@
-from app1 import add
+from test.app1 import add
 
 
 def test_add():
